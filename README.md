@@ -3,6 +3,9 @@ snbpy-assistant
 
 # snbpy 辅助类
 
+1. 提供了一个简单的订单 ID 生成算法
+2. 提供了一个订单状态监听器，可以监听订单状态的变化
+
 # Usage
 ```python
 import time
